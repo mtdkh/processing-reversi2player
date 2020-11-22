@@ -1,6 +1,4 @@
-# Reversi2Player
-This reversi for two players.
-
-
-## Programming language 
-Processing 2.2.1
+# processing-reversi2player
+This reversi for two players  
+## Environment
+Processing ver2.2.1
