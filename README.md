@@ -1,13 +1,10 @@
 # processing-reversi2player
 
 ## Description
-This reversi for two players  
+リバーシを二人プレイヤーに分かれてプレイできる  
 
 ## Requirement
 * Processing ver3.5.4
-
-## Features
-リバーシを二人プレイヤーに分かれてプレイできる  
 
 ## Usage
 
